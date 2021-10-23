@@ -1,0 +1,22 @@
+.abc
+{
+   background-color: cornflowerblue;
+   color: white;
+   
+}
+.def
+{
+   color: black;
+   font-size: 20px;
+}
+.lkl
+{
+   width: 100%;
+   background-color: grey;
+   font-size: 15px;
+   position: fixed;
+   bottom: 0px;
+   color: white;
+   padding-top: 10px;
+   padding-bottom: 5px;
+}
